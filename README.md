@@ -2,4 +2,4 @@
 
 URL to surge.sh static html website:
 
-http://mitchell_layton_final_project.surge.sh/
+http://MitchellRLayton_STA141B_Final_project.surge.sh/
